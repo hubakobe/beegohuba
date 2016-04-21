@@ -1,2 +1,2 @@
 # beegohuba
-Web Server based on Beego
+Web Server project based on Beego
